@@ -15,13 +15,13 @@ To install **My-vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/raaj-rahul/My--vcard.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/raaj-rahul/My--vcard.git
 ```
 
 ## License
